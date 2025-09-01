@@ -80,16 +80,27 @@ The lab consisted of:
 
 ## 🗂️ Artifacts
 This repo contains screenshots that demonstrate successful configuration:
-- ADUC user and group creation
-- DNS forward lookup zone
-- DHCP scope & failover config
-- IIS website bindings and authentication
-- SMB share permissions
-- RRAS VPN settings
-- Samba config (`smb.conf`) and share permissions
-- Apache virtual host configs
-- Internal client tests (Pascal, Louise)
-- External client VPN + SSH tests
+ **Active Directory & Groups**
+  - ![Access to VPN Groups](acess%20to%20vpn%20groups.png)
+- **DNS Configuration**
+  - ![DNS Records Added](dns%20records%20added.png)
+- **DHCP**
+  - ![DHCP Pool Created](dhcp%20pool%20created.png)
+  - ![DHCP Failover](dhcp%20failover.png)
+  - ![DHCP Failover (Secondary View)](dhcp%20failover-2.png)
+- **NTP**
+  - ![NTP Setup](ntp%20setup.png)
+- **VPN**
+  - ![VPN Connection](vpn%20connection.png)
+  - ![RRAS RADIUS Client Setup](radius%20client%20setup.png)
+- **IIS Websites**
+  - ![IIS Management](IIS%20management.png)
+  - ![Site Bindings](site%20bindings.png)
+- **File Shares**
+  - ![SMB/Samba Share](samba%20fileshare.png)
+- **Server Access & Validation**
+  - ![Internet Working](internet%20working.png)
+  - ![Server Management](server%20management.png)
 
 ---
 
